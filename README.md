@@ -16,6 +16,6 @@
 
 #cd Prem
 
-#python bF.py
+#python Bf.py
 
 https://images.app.goo.gl/gUbvxnTSFDyf78g16
